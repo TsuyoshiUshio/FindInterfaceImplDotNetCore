@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyModel;
 
 namespace FindInterfaceImplementation
 {
+    // Entry point
     class Program
     {
         static void Main(string[] args)
